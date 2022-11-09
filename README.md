@@ -1,0 +1,2 @@
+# Veriyapilarialgoritmalar
+Selection Sort Projesi
